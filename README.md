@@ -1,2 +1,2 @@
 # Nuestro-Libro
-Un pequeño libor que cuenta nuestra historia de manera corta
+Un pequeño libro que cuenta nuestra historia de manera corta
